@@ -1,4 +1,3 @@
-# Shivam-Singh
 [![MasterHead]("C:\Users\shiva\OneDrive\Desktop\240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg")](https://webDev.io)
 <h1 align="center">Hi 👋, I'm shivam kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
